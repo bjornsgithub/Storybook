@@ -1,12 +1,12 @@
+import { BrowserModule } from '@angular/platform-browser';
+import { ButtonComponent } from './button/button.component';
 import { NgModule } from '@angular/core';
-import { ComponentsComponent } from './components.component';
-
-
 
 @NgModule({
-  declarations: [ComponentsComponent],
+  declarations: [ButtonComponent],
   imports: [
+    BrowserModule
   ],
-  exports: [ComponentsComponent]
+  exports: [ButtonComponent]
 })
 export class ComponentsModule { }
