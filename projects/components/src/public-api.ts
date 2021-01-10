@@ -4,4 +4,5 @@
 
 export * from './lib/button/button.component';
 export * from './lib/header/header.component';
+export * from './lib/page/page.component';
 export * from './lib/components.module';
