@@ -8,7 +8,7 @@
         {
             "name": "ButtonComponent",
             "id": "component-ButtonComponent-8eaa43d7a8a4fb6241df7764be240782",
-            "file": "projects/components/src/lib/button/button.component.ts",
+            "file": "projects/components/src/components/button/button.component.ts",
             "encapsulation": [],
             "entryComponents": [],
             "inputs": [],
@@ -91,7 +91,7 @@
         {
             "name": "HeaderComponent",
             "id": "component-HeaderComponent-30310d4f538e2541c880e87f1ae1c0bf",
-            "file": "projects/components/src/lib/header/header.component.ts",
+            "file": "projects/components/src/components/header/header.component.ts",
             "encapsulation": [],
             "entryComponents": [],
             "inputs": [],
@@ -155,7 +155,7 @@
         {
             "name": "PageComponent",
             "id": "component-PageComponent-251cb43a923ff156365b8bbdfd9c9f7d",
-            "file": "projects/components/src/lib/page/page.component.ts",
+            "file": "projects/components/src/components/page/page.component.ts",
             "encapsulation": [],
             "entryComponents": [],
             "inputs": [],
@@ -531,7 +531,7 @@
         "status": "low",
         "files": [
             {
-                "filePath": "projects/components/src/lib/button/button.component.ts",
+                "filePath": "projects/components/src/components/button/button.component.ts",
                 "type": "component",
                 "linktype": "component",
                 "name": "ButtonComponent",
@@ -540,7 +540,7 @@
                 "status": "very-good"
             },
             {
-                "filePath": "projects/components/src/lib/header/header.component.ts",
+                "filePath": "projects/components/src/components/header/header.component.ts",
                 "type": "component",
                 "linktype": "component",
                 "name": "HeaderComponent",
@@ -549,7 +549,7 @@
                 "status": "low"
             },
             {
-                "filePath": "projects/components/src/lib/page/page.component.ts",
+                "filePath": "projects/components/src/components/page/page.component.ts",
                 "type": "component",
                 "linktype": "component",
                 "name": "PageComponent",

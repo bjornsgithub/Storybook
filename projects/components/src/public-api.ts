@@ -2,7 +2,7 @@
  * Public API Surface of components
  */
 
-export * from './lib/button/button.component';
-export * from './lib/header/header.component';
-export * from './lib/page/page.component';
-export * from './lib/components.module';
+export * from './components/button/button.component';
+export * from './components/header/header.component';
+export * from './components/page/page.component';
+export * from './components/components.module';
